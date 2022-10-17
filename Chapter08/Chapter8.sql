@@ -22,6 +22,15 @@ CREATE TABLE course(
 
 //STEP 3
 
+ALTER TABLE course
+ADD course_startdate datetime;
+
+//STEP 4
+
+DROP TABLE course;
+
+//STEP 5
+
 INSERT INTO student_data  VALUES ('1', 'Rahul','M', 1, 89.2, 15000, 2019);
 INSERT INTO student_data  VALUES ('2', 'Riya', 'F',2, 68, 12000, 2018);
 INSERT INTO student_data  VALUES ('3', 'Sagnik','M', 3, 96, 19000, 2019);
@@ -38,8 +47,7 @@ INSERT INTO course  VALUES (2, 'BA History');
 INSERT INTO course  VALUES (3, 'MBBS');
 INSERT INTO course  VALUES (4, 'Btech');
 
-
-//STEP 4
+//STEP 6
 
 SELECT TOP (1000) [studentID]
       ,[student_name]
@@ -49,7 +57,8 @@ SELECT TOP (1000) [studentID]
       ,[fees]
       ,[admission_year]
   FROM [dbo].[student_data]
-//STEP 5
+
+//STEP 7
 
 SELECT TOP (1000) S.[studentID]
       ,S.[student_name]
