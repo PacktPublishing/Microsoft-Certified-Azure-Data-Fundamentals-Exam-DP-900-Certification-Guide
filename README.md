@@ -31,9 +31,9 @@ All of the code is organized into folders.
 The code will look like the following:
 ```
 html, body, #map {
-height: 100%;
-margin: 0;
-padding: 0
+    height: 100%;
+    margin: 0;
+    padding: 0
 }
 ```
 
