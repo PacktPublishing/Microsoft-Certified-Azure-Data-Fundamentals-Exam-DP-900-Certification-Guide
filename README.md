@@ -1,8 +1,8 @@
 # Microsoft Certified Azure Data Fundamentals (Exam DP-900) Certification Guide	
 
-<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="Microsoft Certified Azure Data Fundamentals (Exam DP-900) Certification Guide	" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/microsoft-certified-azure-data-fundamentals-exam-dp-900-certification-guide/9781803240633"><img src="https://static.packt-cdn.com/products/9781803240633/cover/smaller" alt="Microsoft Certified Azure Data Fundamentals (Exam DP-900) Certification Guide" height="256px" align="right"></a>
 
-This is the code repository for [Microsoft Certified Azure Data Fundamentals (Exam DP-900) Certification Guide	](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Microsoft Certified Azure Data Fundamentals (Exam DP-900) Certification Guide	](https://www.packtpub.com/product/microsoft-certified-azure-data-fundamentals-exam-dp-900-certification-guide/9781803240633), published by Packt.
 
 **The comprehensive guide to passing the DP-900 exam on your first attempt**
 
@@ -21,7 +21,7 @@ This book covers the following exciting features:
 * Contextualize the knowledge with real-life use cases
 * Test your progress with a mock exam
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/<10P ISBN>) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1803240636) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
