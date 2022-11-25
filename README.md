@@ -60,3 +60,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Marcelo Leite** is a data and artificial intelligence specialist at Microsoft. He got the DP-900 in October 2020 and holds the advanced titles of Azure Data Engineer and Azure AI Engineer. He graduated in technology with a database specialization and has MBA in project and IT management. Marcelo has been working at Microsoft for over 5 years. He's also a professor of MBA courses for databases, data architecture, and cloud computing. With 17+ years of experience in roles such as software engineer, consulting manager, and solutions sales specialist, he shares his knowledge of data technologies on his YouTube channel "Dicas de Dados" and is very active on LinkedIn.	
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803240633">https://packt.link/free-ebook/9781803240633 </a> </p>
